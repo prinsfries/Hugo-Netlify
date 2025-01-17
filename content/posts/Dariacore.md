@@ -1,10 +1,15 @@
 ---
 author: Prince Aguas
-title: Dariacore 2 Enter Here, Hell to the Left (2021) Review
+title: Dariacore 2 Enter Here, Hell to the Left - leroy (2021) Review
 date: 2024-12-14
 description: Speaks to me like a friend with equal amounts of brainrot as me
+cover:
+  image: "https://e.snmc.io/i/600/s/3c4950bd411028c33e180f3f7926fe90/12451448/leroy-dariacore-2-enter-here-hell-to-the-left-Cover-Art.jpg "
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
 ---
-![Dariacore Album Art](https://e.snmc.io/i/600/s/3c4950bd411028c33e180f3f7926fe90/12451448/leroy-dariacore-2-enter-here-hell-to-the-left-Cover-Art.jpg "Dariacore Album Art")
+
 Listen here
 https://soundcloud.com/c0ncernn/sets/dariacore-2-enter-here-hell-to?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 ### Revolutionary

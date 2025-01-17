@@ -3,7 +3,13 @@ author: Prince Aguas
 title: NANA (2006) Review
 date: 2023-10-29
 description: A review of one of my fave animes!
+cover:
+  image: "https://i.pinimg.com/originals/68/d5/58/68d558ea20a47ec06a29d65dc2185a5e.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
 ---
+### REVIEW
 ![NANA Poster](https://m.media-amazon.com/images/M/MV5BYjRmOWJmMDgtYjBjMS00OTg1LWJmZTItZTY2MjJlODgxNmUwXkEyXkFqcGc@._V1_.jpg "NANA Poster")
 
 Five out of Five Stars and a Heart Rating

@@ -3,9 +3,14 @@ author: Prince Aguas
 title: Ping Pong the Animation (2014) Review
 date: 2022-07-22
 description: A review the most unique looking anime, with the most unique perspective of sportsmanship
+cover:
+  image: "https://i.pinimg.com/originals/fc/1a/c8/fc1ac888f9556f5781c9385f40030d24.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
 ---
+### REVIEW
 ![PPtA Poster](https://m.media-amazon.com/images/M/MV5BNmYzMDRkMmYtZjNiZS00ZGVlLWI2NWQtMjc2NTE1OThmZTBiXkEyXkFqcGc@._V1_.jpg "PPtA Poster")
-
 Five out of Five Stars and a Heart Rating
 
 I'll use the term 'spiritual' not in a superstition way, but more of 'one's core' type of way.

@@ -3,13 +3,18 @@ author: Prince Aguas
 title: It's Such A Beautiful Day (2012) Review
 date: 2022-06-06
 description: A man gets horrible news about his health...
+cover:
+  image: "https://media.tenor.com/FZMADW4hL_0AAAAM/its-such-a-beautiful-day-bill.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
 ---
-![ISABD Poster](https://assets.mubicdn.net/images/artworks/385162/images-original.png?1633621700 "ISABD Poster")
+
 
 Five out of Five Stars and a Heart Rating
 
-### This review contains spoilers! Its best to watch the movie first!
-
+### REVIEW: This review contains spoilers! Its best to watch the movie first!
+![ISABD Poster](https://assets.mubicdn.net/images/artworks/385162/images-original.png?1633621700 "ISABD Poster")
 
 
 All my life, I have been a forgetful person.

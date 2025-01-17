@@ -3,8 +3,13 @@ author: Prince Aguas
 title: Blonde - Frank Ocean (2016) Review
 date: 2024-04-18
 description: One of my favorite albums, but...
+cover:
+  image: "https://media.npr.org/assets/img/2016/08/22/frank-ocean-blond_sq-c949586de86261136541d9e21e1860dcc43155f9.jpg?s=1100&c=50&f=jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
 ---
-![Blonde Album Art](https://media.npr.org/assets/img/2016/08/22/frank-ocean-blond_sq-c949586de86261136541d9e21e1860dcc43155f9.jpg?s=1100&c=50&f=jpeg "Blonde Album Art")
+
 Listen here
 https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf?si=M3HOcoyXSEatiGiBC4oZJw
 ### This takes time
