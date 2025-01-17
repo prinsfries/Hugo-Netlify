@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Aguas_Hugo'
+theme = 'PaperMod'

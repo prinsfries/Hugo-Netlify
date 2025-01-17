@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aguas_Hugo</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Aguas_Hugo</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello! Welcome to my personal blog!</title>
+      <link>//localhost:1313/posts/papermod/introduction/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/introduction/</guid>
+      <description>I like to review art!</description>
+    </item>
+    <item>
+      <title>Dariacore 2 Enter Here, Hell to the Left (2021) Review</title>
+      <link>//localhost:1313/posts/dariacore/</link>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/dariacore/</guid>
+      <description>Speaks to me like a friend with equal amounts of brainrot as me</description>
+    </item>
+    <item>
+      <title>Blonde - Frank Ocean (2016) Review</title>
+      <link>//localhost:1313/posts/blonde/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/blonde/</guid>
+      <description>One of my favorite albums, but...</description>
+    </item>
+    <item>
+      <title>NANA (2006) Review</title>
+      <link>//localhost:1313/posts/nana/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/nana/</guid>
+      <description>A review of one of my fave animes!</description>
+    </item>
+    <item>
+      <title>Ping Pong the Animation (2014) Review</title>
+      <link>//localhost:1313/posts/pingpong/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/pingpong/</guid>
+      <description>A review the most unique looking anime, with the most unique perspective of sportsmanship</description>
+    </item>
+    <item>
+      <title>It&#39;s Such A Beautiful Day (2012) Review</title>
+      <link>//localhost:1313/posts/isabd/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/isabd/</guid>
+      <description>A man gets horrible news about his health...</description>
+    </item>
+  </channel>
+</rss>
